@@ -18,7 +18,7 @@ export default function ContactPage() {
         breadcrumb="Contact"
         eyebrow="Get In Touch"
         title="Let's Design Your Energy Independence."
-        subtitle="Fill in the form and we'll get back to you within 4 business hours with a preliminary estimate."
+        subtitle="Fill in the form and we'll get back to you within 5 business hours with a preliminary estimate."
       />
       <div className="container-width section-padding py-20">
         <Suspense fallback={<ContactFormSkeleton />}>
